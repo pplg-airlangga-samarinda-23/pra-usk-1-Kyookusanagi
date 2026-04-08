@@ -31,7 +31,7 @@
         <div class="table-container">
             <div class="table-header">
                 <h2>Data Produk</h2>
-                <a href="tambah.php" class="btn-primary">+ Tambah</a>
+                <a href="tambah.php" class="btn-primary">Tambah Produk</a>
             </div>
 
             <table>
